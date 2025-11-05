@@ -33,11 +33,10 @@ _Add screenshots of your VM deployment and configuration here._
 [Azure VM Deployment Project](https://github.com/yourusername/azure-vm-deployment)
 
 ## 📄 License
-This project is licensed under the MIT License.
-
+This project is licensed under the MIT License
 
 
 ## Screenshots
 
 ![VM Deployment](vm-deployment.png.jfif)
-![VM Monitoring](vm-monitoring.png)
+![VM Monitoring](vm-deployment.png.jfif)
