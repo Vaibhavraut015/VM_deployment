@@ -3,6 +3,7 @@
 ## 📝 Project Overview
 This project demonstrates how to deploy and manage Azure Virtual Machines using PowerShell and ARM templates. It includes steps for provisioning, configuring, and monitoring VMs in a secure and scalable environment.
 
+
 ## 🛠️ Technologies Used
 - Microsoft Azure
 - Azure Virtual Machines
